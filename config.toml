@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'Workflow'
 theme = 'archie'
 
-publishDir = "docs"
-
 # Main menu Items
 
 [[menu.main]]
