@@ -1,0 +1,21 @@
+#+title: F1
+#+date: <2022-07-13 Wed>
+#+hugo_base_dir: ../
+#+filetags: t1 t2
+* heading
+** TODO cpp
+
+
+#+BEGIN_SRC cpp
+#include<iostream>
+int main{
+  std::cout<<"Hello, World!\n";
+  retirm 0;
+}
+#+END_SRC
+** java
+#+BEGIN_SRC java
+public void main(){
+    System.out.println("Hello World");
+}
+#+END_SRC
