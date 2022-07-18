@@ -1,7 +1,8 @@
 ---
 title: "Levels Of Techie Enlightenment"
 date: 2022-07-18T16:06:24+04:00
-draft: true
+draft: false
+tags: [insight]
 ---
 
 3 levels of enlightenment: 
