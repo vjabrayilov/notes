@@ -1,0 +1,3 @@
+[submodule "themes/archie-vfj"]
+	path = themes/archie-vfj
+	url = git@github.com:vjabrayilov/archie-vfj.git
