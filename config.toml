@@ -1,7 +1,7 @@
 baseURL = 'https://vjabrayilov.github.io/notes/'
 languageCode = 'en-us'
 title = 'Workflow'
-theme = 'archie'
+theme = 'archie-vfj'
 
 # Main menu Items
 
