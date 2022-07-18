@@ -2,8 +2,12 @@
 #+date: <2022-07-13 Wed>
 #+hugo_base_dir: ../
 #+filetags: t1 t2
-* heading
-** TODO cpp
+* start of the subtree 1
+** org-post 1
+:PROPERTIES:
+:EXPORT_FILE_NAME: post1
+:END:
+*** TODO cpp
 
 
 #+BEGIN_SRC cpp
@@ -13,9 +17,20 @@ int main{
   retirm 0;
 }
 #+END_SRC
-** java
+*** java
 #+BEGIN_SRC java
 public void main(){
     System.out.println("Hello World");
 }
 #+END_SRC
+
+*** heading 2
+**** should be under second header
+* start of the subtree 2
+** org-post 2
+:PROPERTIES:
+:EXPORT_FILE_NAME: post2
+:END:
+** h1 in new post F2
+lorem impsum text goes here
+** h2 in new post F2
