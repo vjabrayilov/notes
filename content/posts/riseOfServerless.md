@@ -1,7 +1,7 @@
 ---
 title: "Serverless Computing"
 date: 2022-07-19T14:59:06+04:00
-draft: false
+draft: true
 tags: [serverless]
 ---
 ## Introduction
@@ -15,11 +15,12 @@ scaled and billed only for the time the code is running.
 
 ## History and Related Work
 * Serverless builds upon long-running trends and advances in both distributed systems, pub/sub systems and event-driven programming models, including actor models, reactive programming, and active db systems.
-![comparison of XaaS](/static/serverless-comparison.png)
+![comparison of XaaS](https://drive.google.com/uc?export=view&id=1DQHXzLG8Mb4wbu0wjDNBJZdonBs0cLsj)
 
-## Further read
+---
+## Further reading
 - [ ] https://pauldjohnston.medium.com/a-simple-definition-of-serverless-8492adfb175a
 - [ ] http://bit.ly/2xzNEWB
-- [ ] 
 ## References
 - https://dl.acm.org/doi/pdf/10.1145/3368454
+
