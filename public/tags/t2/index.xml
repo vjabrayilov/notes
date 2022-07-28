@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>t2 on Workflow</title>
+    <link>https://vjabrayilov.github.io/notes/tags/t2/</link>
+    <description>Recent content in t2 on Workflow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jul 2022 15:23:19 +0400</lastBuildDate><atom:link href="https://vjabrayilov.github.io/notes/tags/t2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://vjabrayilov.github.io/notes/posts/first/</link>
+      <pubDate>Wed, 13 Jul 2022 15:23:19 +0400</pubDate>
+      
+      <guid>https://vjabrayilov.github.io/notes/posts/first/</guid>
+      <description>First post </description>
+    </item>
+    
+    <item>
+      <title>org-post 1</title>
+      <link>https://vjabrayilov.github.io/notes/posts/post1/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0400</pubDate>
+      
+      <guid>https://vjabrayilov.github.io/notes/posts/post1/</guid>
+      <description>TODO cpp #include&amp;lt;iostream&amp;gt; int main{ std::cout&amp;lt;&amp;lt;&amp;#34;Hello, World!\n&amp;#34;; retirm 0; } java public void main(){ System.out.println(&amp;#34;Hello World&amp;#34;); } heading 2 should be under second header </description>
+    </item>
+    
+    <item>
+      <title>org-post 2</title>
+      <link>https://vjabrayilov.github.io/notes/posts/post2/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0400</pubDate>
+      
+      <guid>https://vjabrayilov.github.io/notes/posts/post2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

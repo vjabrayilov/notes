@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>serverless on Workflow</title>
+    <link>https://vjabrayilov.github.io/notes/tags/serverless/</link>
+    <description>Recent content in serverless on Workflow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jul 2022 10:42:00 +0400</lastBuildDate><atom:link href="https://vjabrayilov.github.io/notes/tags/serverless/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firecracker: Lightweight Virtualization for Serverless Applications</title>
+      <link>https://vjabrayilov.github.io/notes/posts/firecracker/</link>
+      <pubDate>Thu, 21 Jul 2022 10:42:00 +0400</pubDate>
+      
+      <guid>https://vjabrayilov.github.io/notes/posts/firecracker/</guid>
+      <description>Summary Background Virtualization Lambda Interesting points References Summary Firecracker is a high-performance virtualization solution built to run Amazon’s serverless applications securely and with minimal resources. It now does so at immense scale. Background Virtualization Initially, a separate VM per Lambda customer, but existing VM solutions required significant resources, hence resulting in non-optimal utilization. 2 types of hypervisors Type 1 directly integrated in the hardware Type 2 run an operating system on top of the hardware, then run the hypervisor on top of that operating system Linux has a hypervisor built into the kernel - Kernel Virtual Machine, arguably a Type 1 hypervisor.</description>
+    </item>
+    
+  </channel>
+</rss>

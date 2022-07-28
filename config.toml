@@ -1,6 +1,6 @@
 baseURL = 'https://vjabrayilov.github.io/notes/'
 languageCode = 'en-us'
-title = 'Workflow'
+title = "Vahab Jabrayilov's Blog"
 theme = 'archie'
 
 # Main menu Items
@@ -13,7 +13,7 @@ weight = 1
 
 [[menu.main]]
 name = "About"
-url = "/about"
+url = "https://vjabrayilov.github.io"
 weight = 2
 
 [[menu.main]]

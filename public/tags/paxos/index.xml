@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paxos on Workflow</title>
+    <link>https://vjabrayilov.github.io/notes/tags/paxos/</link>
+    <description>Recent content in paxos on Workflow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jul 2022 11:39:00 +0400</lastBuildDate><atom:link href="https://vjabrayilov.github.io/notes/tags/paxos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mencius: Building Efficient Replicated State Machines for WANs</title>
+      <link>https://vjabrayilov.github.io/notes/posts/mencius/</link>
+      <pubDate>Tue, 26 Jul 2022 11:39:00 +0400</pubDate>
+      
+      <guid>https://vjabrayilov.github.io/notes/posts/mencius/</guid>
+      <description>Problem Solution Contributions Discussion of Evaluations Notes References Problem Paxos relies on a single leader to choose the request sequence which is a bottleneck limiting the throughput(Computational bottleneck at the leader). Moreover, having a single leader leads to an unbalanced communication pattern limiting the full utilization of bandwidth(Unbalanced communication pattern). The leader always learn and commits the value it proposed, but it takes time for non-leader nodes to learn the committed value resulting in higher learning latency for non-leader servers.</description>
+    </item>
+    
+    <item>
+      <title>Stoppable Paxos</title>
+      <link>https://vjabrayilov.github.io/notes/posts/stoppablepaxos/</link>
+      <pubDate>Tue, 19 Jul 2022 10:17:24 +0400</pubDate>
+      
+      <guid>https://vjabrayilov.github.io/notes/posts/stoppablepaxos/</guid>
+      <description>Summary Stoppable state machines are used to implement reconfiguration, simply a reconfigurable state machine consists of several stoppable state machines. To switch between the configurations, one is stopped and the other is started.
+Traditionally, reconfiguration is done by executing special reconfiguration commands as a consensus instance. However, it prevents the concurrent execution of other commands until the new configuration is selected and ready. The main purpose of the Stoppable Paxos is to address this bottleneck.</description>
+    </item>
+    
+  </channel>
+</rss>

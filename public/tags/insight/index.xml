@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>insight on Workflow</title>
+    <link>https://vjabrayilov.github.io/notes/tags/insight/</link>
+    <description>Recent content in insight on Workflow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jul 2022 14:22:02 +0400</lastBuildDate><atom:link href="https://vjabrayilov.github.io/notes/tags/insight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Read a Paper</title>
+      <link>https://vjabrayilov.github.io/notes/posts/howtoreadapaper/</link>
+      <pubDate>Tue, 19 Jul 2022 14:22:02 +0400</pubDate>
+      
+      <guid>https://vjabrayilov.github.io/notes/posts/howtoreadapaper/</guid>
+      <description>Key idea: read the paper in up to 3 passes 1st pass gives the general idea 5-10 mins get a bird&amp;rsquo;s-eye view and decide whether to do any more passes or not Do the following carefully read the title, abstract and introduction read the section and sub-section headings, but ignore everything else read the conclusions glance over the references, mentally ticking off the already read ones at the end of this pass, five Cs should be answered Category: What type of paper is this?</description>
+    </item>
+    
+    <item>
+      <title>Levels Of Techie Enlightenment</title>
+      <link>https://vjabrayilov.github.io/notes/posts/levelsoftechieenlightenment/</link>
+      <pubDate>Mon, 18 Jul 2022 16:06:24 +0400</pubDate>
+      
+      <guid>https://vjabrayilov.github.io/notes/posts/levelsoftechieenlightenment/</guid>
+      <description>3 levels of enlightenment:
+Level 0: The Newcomer a ton of materials to master reaction: Overwhelmed problem: lack of breadth Level 1: The Half-Expert weakness finding machines reaction: dismissal and destruction Level 2: Chaotic times &amp;hellip; Level 3: Nirvana people are able to provide and receive criticism without making it personal far more productive References https://hackingdistributed.com/2017/05/04/stages-of-enlightenment/ </description>
+    </item>
+    
+  </channel>
+</rss>
