@@ -1,5 +1,5 @@
 ---
-title: "Granular Computing"
+title: "Granular Computing HotOS'19"
 date: 2022-09-06T12:45:51+04:00
 draft: false
 tags: [serverless paper review, serverless, granular computing]
