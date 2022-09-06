@@ -1,5 +1,5 @@
 ---
-title: "Go Serverless: Securing Cloud via Serverless Design Patterns HotCloud'19"
+title: "Go Serverless: Securing Cloud via Serverless Design Patterns HotCloud'18"
 date: 2022-09-06T15:17:43+04:00
 draft: false
 tags: [serverless paper review, serverless, design patterns]
